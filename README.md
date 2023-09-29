@@ -1,2 +1,2 @@
-# smart-parking
+# smart-parking-system
 file contains smart parking
